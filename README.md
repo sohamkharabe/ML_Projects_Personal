@@ -1,7 +1,6 @@
 # Machine Learning
 
 This repository contains my learning, practice, experiments, and implementations in **Machine Learning**.
-
 I am using this space to build a strong foundation in Machine Learning by studying concepts, implementing them in Python, working with datasets, and applying what I learn through hands-on practice.
 
 ## What I'm Learning
